@@ -20,7 +20,26 @@ Explore definitions, synonyms, antonyms, hypernyms, hyponyms, domain tags, examp
 - RESTful JSON responses\
 - ...and more (see full table below)
 
----
+
+## Supported Languages
+Norwegian bokmaal is the main language currently supported. Expansion to English is in progress, and additional languages are planned on the roadmap.
+
+| Language         | Code | Comment
+| ---------------- | ---- | ------------ |
+| Norsk Bokmål     | nob  | Main         |
+| English          | eng  | In progress  |
+| Norsk Nynorsk    | nno  | In progress  |
+| Nordsamisk       | sme  | In roadmap   |
+| Sørsamisk        | sma  | In roadmap   |
+| Lulesamisk       | smj  | In roadmap   |
+| Danish           | dan  | In roadmap   |
+| Swedish          | swe  | In roadmap   |
+| Dutch            | nld  | In roadmap   |
+| French           | fra  | In roadmap   |
+| German           | deu  | In roadmap   |
+| Spanish          | spa  | In roadmap   |
+| Italian          | ita  | In roadmap   |
+
 
 
 
@@ -152,25 +171,6 @@ Returns only the requested relation type.
   ]
 }
 ```
-
-## Supported Languages
-Norwegian bokmaal is the main language currently supported. Expansion to English is in progress, and additional languages are planned on the roadmap.
-
-| Language         | Code | Comment
-| ---------------- | ---- | ------------ |
-| Norsk Bokmål     | nob  | Main         |
-| English          | eng  | In progress  |
-| Norsk Nynorsk    | nno  | In progress  |
-| Nordsamisk       | sme  | In roadmap   |
-| Sørsamisk        | sma  | In roadmap   |
-| Lulesamisk       | smj  | In roadmap   |
-| Danish           | dan  | In roadmap   |
-| Swedish          | swe  | In roadmap   |
-| Dutch            | nld  | In roadmap   |
-| French           | fra  | In roadmap   |
-| German           | deu  | In roadmap   |
-| Spanish          | spa  | In roadmap   |
-| Italian          | ita  | In roadmap   |
 
 
 ## Supported Relation Types
