@@ -10,7 +10,7 @@ The **Syntelligo JSON REST API** provides access to a **structured, multilingual
 
 Explore definitions, synonyms, antonyms, hypernyms, hyponyms, domain tags, example usage, and more through clean, expressive JSON endpoints.
 
-[Available on RapidAPI]([/guides/content/editing-an-existing-page](https://rapidapi.com/syntelligo-syntelligo-default/api/syntelligo-linguistic-graph-api))
+[Available on RapidAPI](https://rapidapi.com/syntelligo-syntelligo-default/api/syntelligo-linguistic-graph-api)
 
  
 
