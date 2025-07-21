@@ -13,8 +13,7 @@ Explore definitions, synonyms, antonyms, hypernyms, hyponyms, domain tags, examp
 Get access to the API:
 [Available on RapidAPI](https://rapidapi.com/syntelligo-syntelligo-default/api/syntelligo-linguistic-graph-api)
 
-See example:
-
+See example on implementation:
 [Digilex.no](https://digilex.no/345972/bil)
 
 ##  Features
